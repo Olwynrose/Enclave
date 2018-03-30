@@ -19,6 +19,7 @@ document.getElementById("BL269").style.display = "none";
 document.getElementById("BL290").style.display = "none";
 
 
+
 document.getElementById("AL416").onclick = function() {
   if (document.getElementById("AL416").value == "En savoir plus")
   {
